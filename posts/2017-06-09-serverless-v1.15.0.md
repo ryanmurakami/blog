@@ -32,7 +32,7 @@ Autocomplete is also supported for options. So `serverless deploy --st<tab>` wil
 
 This feature is another step towards are more user-friendly developer experience as it heavily decreases the cognitive load while working on your project.
 
-Are you curious what other DX improvements are currently in the pipeline? Take a look at our [DX issues](https://github.com/serverless/serverless/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20DX%3A%20) and give a thumbs-up for your favorite feature or open up a new issue if you can't find what you're looking for.
+Are you curious what other DX improvements are currently in the pipeline? Take a look at our [DX issues](https://github.com/serverless/serverless/issues?q=is:issue is:open DX:) and give a thumbs-up for your favorite feature or open up a new issue if you can't find what you're looking for.
 
 ### Cognito User Pool Trigger event
 
